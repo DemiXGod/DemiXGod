@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I’m DemiXGod (Mihir Singh)
+
+## 🚀 About Me
+
+Dynamic and adaptive professional with hands-on experience in project management, business analysis, and consulting across global organizations. I excel at balancing rigorous academic pursuits—currently pursuing a master’s in the UK—with impactful part-time roles, demonstrating strong time management, discipline, and resilience. My dual exposure to the business environments of India and the UK has equipped me with exceptional cross-cultural communication and stakeholder engagement skills.
+
+I am passionate about leveraging data-driven insights and innovative problem-solving to drive operational improvements and deliver value. With professional certifications in Scrum and Azure Fundamentals, I thrive in agile teams, manage projects efficiently using tools like Jira and Azure DevOps, and build productive relationships within diverse, international teams. Recognized for service excellence and continuous learning, I aim to contribute to projects that demand strong analytical thinking, adaptability, and a global perspective. 
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/mihirsingh16/)
+
+---
+
+## 💼 Professional Snapshot
+
+- **Bridging the gap** between technology and business as an aspiring leader in the digital space.
+- Experienced in both **agile project management** and **strategic business analysis**.
+- Passionate about **delivering high-impact solutions** and driving organizational growth.
+
+---
+
+## 🛠️ Functional Competencies
+
+- **Project Management:** Agile | Scrum | Sprint Planning
+- **Business Analysis:** Strategic Analysis | Business Model Development | Customer Insight
+- **Collaboration:** Stakeholder Engagement | Team Collaboration | Communication Skills
+- **Operations:** Risk Awareness | Operations | Business Development | Product Knowledge
+- **Other Skills:** Adaptability | Data Analysis | Analytical Skills | Time Management | Critical Thinking | Organisational Skills
+
+---
+
+## 🧰 Technical Toolbox
+
+- **Project & Collaboration:** Microsoft Project, Jira, Trello, Azure DevOps, ServiceNow, Microsoft Teams, Outlook, SharePoint
+- **Data & Analytics:** Qlik Sense, Microsoft Excel, Power BI
+- **Development:** Java, Python, PowerShell, Web Development Tools, VS Code, Git Bash
+- **Design & Presentation:** Microsoft PowerPoint, Canva, Adobe
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Leveraging analytics for business transformation
+- The intersection of digital transformation and business strategy
+- Modern project management trends
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn: mihirsingh16](https://www.linkedin.com/in/mihirsingh16/)
+
+---
 
 <!--
-**DemiXGod/DemiXGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to showcase your projects or add a fun personal fact? Let me know!
 -->
