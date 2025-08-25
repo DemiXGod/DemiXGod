@@ -1,4 +1,4 @@
-# 👋 Hi, I’m DemiXGod (Mihir Singh)
+# 👋 Hi, I’m Mihir Singh
 
 ## 🚀 About Me
 
