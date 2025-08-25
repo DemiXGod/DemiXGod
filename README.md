@@ -42,7 +42,7 @@ I am passionate about leveraging data-driven insights and innovative problem-sol
   Explore detailed documentation of my projects, including plans, reports, and deliverables, on my [Google Drive Project Folder](https://drive.google.com/drive/folders/1z4dN2mMlP90j3F9T85cM-axPm1ZHQeez?usp=sharing).
 
 - 📄 **Conference Paper Publication:**  
-  “A Novel Approach for [Your Paper Title]” published in Springer Proceedings.  
+  Published in Springer Proceedings.  
   [Read the Paper on Springer](https://link.springer.com/chapter/10.1007/978-981-19-3148-2_23)
 
 ---
@@ -52,6 +52,7 @@ I am passionate about leveraging data-driven insights and innovative problem-sol
 - Leveraging analytics for business transformation
 - The intersection of digital transformation and business strategy
 - Modern project management trends
+- Exploring Cloud Technologies
 
 ---
 
